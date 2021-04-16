@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    width: 100%;
+}
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 1px;
+    margin: 4px 2px;
+    position: absolute;
+    left: 560px;
+    top: 420px;
+}
+
+.filipino {
+    color: blue;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 1px;
+    margin: 4px 2px;
+    position: absolute;
+    left: 695px;
+    top: 420px;
+}
+
+#nav_bar {
+    float: right;
+}
+
+#nav_bar li {
+    display: inline-block;
+    padding: 8px;
+}
+
+.nav-links {
+    color: #404040;
+}
+
+.google{
+    position: absolute;
+    width: 400px;
+    height: 135px;
+    left: 500px;
+    top: 125px;
+  }
+
+.search_bar {
+    position: absolute;
+    border-radius: 70px;
+    background: white;
+    padding: 25px; 
+    width: 650px;
+    height: 5px;
+    left: 375px;
+    top: 270px;
+    border: 1px solid black;
+}
+
+.button1 {
+    border-radius: 10px;
+    background-color: #d4e2e9;
+}
+
+.buttonOne {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 1px;
+    margin: 4px 2px;
+    position: absolute;
+    left: 510px;
+    top: 335px;
+    
+}
+
+.button2 {
+    border-radius: 10px;
+    background-color: #d4e2e9;
+}
+
+.buttonTwo {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 1px;
+    margin: 4px 2px;
+    position: absolute;
+    left: 690px;
+    top: 335px;
+    
+}
